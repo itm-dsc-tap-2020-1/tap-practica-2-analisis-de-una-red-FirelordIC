@@ -4,6 +4,8 @@ red ="200.33.171.0/24"
 
 os.system("nmap -sP " + red)
 
+# Daniel Ortiz Manjarrez
+
 # Starting Nmap 7.60 ( https://nmap.org ) at 2020-02-27 11:47 CST
 # Nmap scan report for mail.itmorelia.edu.mx (200.33.171.3)
 # Host is up (0.0035s latency).
